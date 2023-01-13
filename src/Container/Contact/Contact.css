@@ -1,0 +1,13 @@
+.contact__input{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.contact__input input , textarea{
+      outline: none;
+}
+.contact__input a{
+    margin: auto;
+      width: 100%;
+      /* max-width: 500px; */
+}

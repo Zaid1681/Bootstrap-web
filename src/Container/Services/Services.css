@@ -1,0 +1,29 @@
+.card-body-services{
+    color: #fff;
+    padding: 20px;
+}
+.card-body-services h4{
+    color: #fff;
+}
+.card-title{
+    font-size: 25px;
+    font-weight: 700;
+    color: #ffff;
+}
+.card-data{
+    font-size: 15px;
+    width: 100%;
+    word-wrap: break-word;
+    color: #ffff;
+}
+.text-center{
+    font-family: montserrat;
+}
+.text-center h2{
+    font-size: 30px;
+}
+.text-center p{
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+}

@@ -1,0 +1,23 @@
+.Team__heading {
+    width: 100%;
+    padding: 0px 150px;
+}
+.card__img img{
+    width: 130px;
+    height: 130px ;
+    border-radius: 150%;
+}
+
+.card-body-team{
+    color: black;
+}
+
+@media screen and (max-width:800px){
+    .Team__heading {
+        /* width: 100%; */
+        padding: 0px;
+    }
+}
+.card{
+    box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+}

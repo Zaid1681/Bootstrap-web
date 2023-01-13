@@ -1,0 +1,8 @@
+.data__line{
+    width: 80%;
+    margin: 2rem;
+    display: flex;
+    margin: auto;
+    height: 2px ;
+    background-color: #3333;
+}

@@ -1,0 +1,15 @@
+.card-img img{
+    width: 100%;
+    max-width: 300px;
+}
+.card-data p{
+    padding: 0 1rem ;
+    width: 100%;
+}
+.card-data-port {
+    color: black;
+}
+
+.card-data-port h3{
+    color: #000;
+}

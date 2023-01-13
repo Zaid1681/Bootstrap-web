@@ -1,0 +1,27 @@
+.section-padding{
+    margin: 4rem;
+}
+.text-title{
+    font-size: 30px;
+
+}
+.text-subtitle{
+    font-size: 15px;
+
+}
+.card-title{
+    font-size: 25px;
+    font-weight: 600;
+}
+.card-subtitle{
+    font-size: 15px;
+    font-weight: 500;
+}
+.team-name{
+    font-size: 20px;
+    font-weight: 600;
+}
+.team-detail{
+    font-size: 10px;
+    font-weight: 500;
+}

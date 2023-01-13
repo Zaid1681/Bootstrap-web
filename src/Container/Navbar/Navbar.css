@@ -1,0 +1,35 @@
+.navbar__container-logo img{
+    /* margin: 0px 4rem; */
+    height: 30px;
+}
+
+.navbar-light , .navbar__container-logo{
+    color: #000;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 700;
+
+}
+
+.navbar-light , .navbar__container-logo:focus,
+.navbar-light , .navbar__container-logo:hover{
+    color: #000;
+}
+.navbra-light  .navbar-nav .navbar-link{
+    color: #0000;
+}
+
+.w-100{
+    height: 100vh;
+}
+
+@media only screen and (max-wdith: 767px){
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar__container-logo img{
+        /* margin-left: -100px; */
+        margin-right: 100px;
+        padding: 0;
+    }
+}
